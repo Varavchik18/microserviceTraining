@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FBtq42x9W6K7/ysR2+luua+mIAKT1IKODIEIyWZWW9gkB1nkmPyQmwaa8LMQaqWsrFCLh2SRCbdOovVJG7mrjQ==",
+  "dgSpecHash": "eaEn+p8sc0gX2kMi86YGlgdPVGdTmvVFJP5jUMupTxXiKv0TQ13tuZqr4d59sJJARYs4GxZfQi8G2ivz6I6YYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pasha\\source\\projects\\microservices tutorial\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,11 @@
     "C:\\Users\\pasha\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\pasha\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\pasha\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\pasha\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\pasha\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0\\microsoft.netcore.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.0\\microsoft.windowsdesktop.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.2\\microsoft.netcore.app.host.win-x64.6.0.2.nupkg.sha512"
   ],
   "logs": []
 }
